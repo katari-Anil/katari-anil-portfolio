@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-label="Katari Anil placeholder portrait">
+  <rect width="240" height="240" rx="40" fill="#0f172a"/>
+  <rect x="18" y="18" width="204" height="204" rx="34" fill="url(#g)"/>
+  <circle cx="120" cy="102" r="54" fill="#F8FAFC" fill-opacity="0.92"/>
+  <path d="M66 198c8-35 35-54 54-54s46 19 54 54" fill="#F8FAFC" fill-opacity="0.94"/>
+  <text x="120" y="214" text-anchor="middle" font-family="Poppins, Arial, sans-serif" font-size="26" font-weight="700" fill="#0f172a">KA</text>
+  <defs>
+    <linearGradient id="g" x1="18" y1="18" x2="222" y2="222" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#3B82F6"/>
+      <stop offset="100%" stop-color="#8B5CF6"/>
+    </linearGradient>
+  </defs>
+</svg>
