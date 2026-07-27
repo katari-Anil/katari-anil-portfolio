@@ -4,7 +4,7 @@ A modern interactive portfolio built with **React**, **TypeScript**, and **Vite*
 
 ## 🌐 Live Demo
 
-🔗 https://katari-anil-portfolio-426w53iw9-katari-anils-projects.vercel.app/
+🔗 https://katari-anil-portfolio-aq2f-l0wrcerrg-katari-anils-projects.vercel.app/
 
 ## 🛠️ Tech Stack
 
